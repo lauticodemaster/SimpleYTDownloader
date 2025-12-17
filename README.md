@@ -22,6 +22,7 @@ The program works through a simple menu and automates the entire process.
 
 1. Open the file `lista.txt`
 2. Paste the YouTube URLs **one per line**
+   
 https://youtu.be/example1
 
 https://youtu.be/example2
